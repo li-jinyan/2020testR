@@ -1,4 +1,4 @@
-Package: 2020testR
+Package: liTestR
 Type: Package
 Title: li tries to test R package
 Version: 0.1.0
