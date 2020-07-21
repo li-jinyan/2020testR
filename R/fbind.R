@@ -5,7 +5,7 @@
 #
 #' hello
 #'
-#' @inheritParams fbind
+#'
 #'
 #' @return combined charactors
 #' @export
